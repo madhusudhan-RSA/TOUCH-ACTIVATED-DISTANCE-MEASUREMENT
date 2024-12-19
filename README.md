@@ -51,7 +51,7 @@ The formula for calculating distance using an ultrasonic sensor is:
 ## Applications
 
 - **Interactive Distance Measurement**: Use in systems that require user-triggered distance measurements, such as object detection or proximity-based applications.
-- **Educational Tool**: A great project for beginners to learn about sensors, I2C communication, and Arduino programming.
+- **Educational Tool**: A great project for beginners to learn about sensors, I2C communication, and Register Level programming.
 
 ## How to Use
 
