@@ -10,7 +10,7 @@ This project involves creating a **touch-activated system** that triggers an **u
 - **HC-SR04 Ultrasonic Sensor**
 - **Jumper wires and Breadboard**
 
-## Connections
+## Connection Details
 
 | **Device**         | **Pin Name**    | **Connection** |
 |--------------------|-----------------|----------------|
