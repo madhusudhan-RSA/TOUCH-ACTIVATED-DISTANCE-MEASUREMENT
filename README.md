@@ -2,7 +2,7 @@
 
 This project involves creating a **touch-activated system** that triggers an **ultrasonic sensor** to measure distance and display the result on an **I2C LCD screen**. The system is designed to measure the distance of objects in front of the ultrasonic sensor, but only when the user activates the system by touching a designated touch sensor.
 
-## Components
+## Components Required
 
 - **Arduino Mega 2560**
 - **I2C LCD (16x2) Display**
