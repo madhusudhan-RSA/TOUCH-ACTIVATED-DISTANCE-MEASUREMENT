@@ -28,10 +28,10 @@ uint16_t echoUltrasonicDuration()
 
 double distanceUltrasonic()
 {
-  uint16_t duration;
+  uint16_t counts;
   
   triggerUltrasonic();
   while (!(PINA & (1 << ECHO)));
-  duration = echoUltrasonicDuration();
-  return(duration*4/58.0);
+  counts = echoUltrasonicDuration();
+  return(counts*4/58.0);
 }
