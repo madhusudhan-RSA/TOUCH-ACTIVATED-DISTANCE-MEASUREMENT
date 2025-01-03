@@ -33,5 +33,5 @@ double distanceUltrasonic()
   triggerUltrasonic();
   while (!(PINA & (1 << ECHO)));
   duration = echoUltrasonicDuration();
-  return(duration/58.0);
+  return(duration*4/58.0);
 }
